@@ -2,6 +2,8 @@
 
 Create a new F# project from the "Console Application" template
 
+![](_misc/Creating%20a%20basic%20fs%20project.PNG)
+
 **Default Project structure and contents**
 
 ![](_misc/Basic%20FS%20project%20structure.PNG)
