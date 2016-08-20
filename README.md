@@ -28,7 +28,7 @@ depending on the active development profile.
 
 The FSI Window does not provide the Microsoft IntelliSense support. 
 
-### F# Script
+### Creating an F# Script
 
 F# scripts are an alternative to FSI to quickly tryout scripts but with the support of Microsoft IntelliSense. F# scripts are the best way to quickly tryout F# code augmented with the support of Microsoft IntelliSense without having to create an F# project.
 
