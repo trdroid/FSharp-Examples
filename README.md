@@ -106,7 +106,3 @@ Visual Studio offers the following F# templates
 *Silverlight Library*: is a template for a Silverlight class library
 
 *Tutorial*: is a console application that contains F# samples
-
-
-
->>>>>>> e32dde011b6ab108f026f12e836282efe4706daf
